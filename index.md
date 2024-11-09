@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: AI Noob Nook
 ---
 
 # Table of Contents
