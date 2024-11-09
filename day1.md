@@ -4,7 +4,7 @@ title: Day 1: Introduction to Python
 ---
 
 # Table of Contents
-- [Day 1: Introduction to Python - Let’s Begin Your Coding Journey!] (#Introduction-to-Python)
+- [Day 1: Introduction to Python - Let’s Begin Your Coding Journey!](#Introduction-to-Python)
 - [Setting Up Python with Google Colab](#google-colab)
 - [Your First Python Code!](#first-code)
 - [Variables and Data Types in Python](#Variables-and-data-types)
