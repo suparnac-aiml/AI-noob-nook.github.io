@@ -1,11 +1,11 @@
 title: "AI NOOB NOOK"
 description: "A beginner's guide to Artificial Intelligence.  Let's build your foundation in the next 60 days"
 theme: jekyll-theme-leap-day
-
+baseurl: "/AI-noob-nook.github.io"
 navigation:
   - name: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - name: "Day 1: Introduction to Python"
-    url: "/day1/"
+    url: "{{ site.baseurl }}/day1/"
   - name: "Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans"
-    url: "/day2/"
+    url: "{{ site.baseurl }}/day2/"
