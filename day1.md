@@ -10,6 +10,7 @@ permalink: /day1/
 - [Your First Python Code!](#first-code)
 - [Variables and Data Types in Python](#Variables-and-data-types)
 - [Basic Calculations in Python](#basic-calculations)
+- [Back to Home](index/)
 
 ---
 
@@ -180,3 +181,6 @@ As you move forward, these basics will serve as the foundation for more complex 
 In the next guide, we’ll dive into control flow—learning how to make decisions in your program with if statements, loops, and more!
 
 **Keep coding, and happy learning!**
+
+[Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
+[Back to Home](index/)
