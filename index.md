@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: AI Noob Nook
 ---
 
@@ -40,3 +40,6 @@ Our targeted audience includes:
 - **Career Changers**: Professionals from diverse backgrounds who are considering a career transition into AI or related fields and are in search of valuable insights and resources to facilitate this change.
 
 Through our curated content, we aim to empower our audience with the knowledge, skills, and confidence needed to navigate the complexities of AI effectively. Whether you're just getting started or looking to advance your career in the AI domain, AI Noob Nook is here to support you every step of the way.
+
+
+- [Day 1: Introduction to Python](day1/) 
