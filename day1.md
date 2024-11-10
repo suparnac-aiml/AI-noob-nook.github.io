@@ -106,7 +106,6 @@ Let’s try a few calculations in Google Colab:
 ```python
 x = 10
 y = 5
-```
 
 #Addition
 sum_result = x + y
@@ -135,6 +134,7 @@ print("Remainder:", remainder)
 #Exponentiation
 power = x ** y
 print("Power:", power)
+```
 
 You’ll get the following output:
 ```
