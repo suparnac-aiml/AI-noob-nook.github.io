@@ -11,7 +11,7 @@ permalink: /day1/
 - [Variables and Data Types in Python](#Variables-and-data-types)
 - [Basic Calculations in Python](#basic-calculations)
 - [Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
-<a href="{{ site.baseurl }}/">Back to Home</a>
+- <a href="{{ site.baseurl }}/">Back to Home</a>
 
 ---
 
