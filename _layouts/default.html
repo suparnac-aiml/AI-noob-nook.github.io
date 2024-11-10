@@ -6,11 +6,11 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
 
-  <!-- Link to the custom stylesheet -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
   <!-- Include Google Analytics and any other head content -->
   {% include head.html %}
+
+  <!-- Link to theme CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
@@ -29,20 +29,10 @@
     </nav>
   </header>
 
-  <!-- Page content with two-column layout -->
-  <div class="container">
-    <!-- Sidebar column (left) -->
-    <aside class="sidebar">
-      <!-- Add any sidebar content here (or remove if unnecessary) -->
-      <p>Sidebar Content</p>
-      <!-- Optionally, you can add a table of contents here or links -->
-    </aside>
-
-    <!-- Main content column (right) -->
-    <main class="main-content">
-      {{ content_for_layout }}
-    </main>
-  </div>
+  <!-- Page content -->
+  <main>
+    {{ content }}
+  </main>
 
   <!-- Site footer -->
   <footer>
