@@ -1,7 +1,7 @@
 title: "AI NOOB NOOK"
 description: "A beginner's guide to Artificial Intelligence.  Let's build your foundation in the next 60 days"
 theme: jekyll-theme-leap-day
-baseurl: "/AI-noob-nook.github.io"
+baseurl: "/suparnac-aiml.github.io/AI-noob-nook.github.io"
 navigation:
   - name: "Home"
     url: "{{ site.baseurl }}/"
