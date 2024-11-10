@@ -1,3 +1,9 @@
+---
+layout: page
+title: Day 1 - Introduction to Python
+permalink: /day1/
+---
+
 # Table of Contents
 - [Day 1: Introduction to Python - Let’s Begin Your Coding Journey!](#Introduction-to-Python)
 - [Setting Up Python with Google Colab](#google-colab)
