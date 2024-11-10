@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 1 - Introduction to Python
 permalink: /day1/
 ---
