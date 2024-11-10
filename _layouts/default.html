@@ -14,29 +14,36 @@
 </head>
 
 <body>
-  <!-- Site header -->
-  <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
+  <div class="container">
+    <!-- Site header (typically includes the title and description) -->
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </header>
 
-    <!-- Navigation Menu -->
-    <nav>
-      <ul>
-        {% for item in site.navigation %}
-          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
+    <!-- Main content area with two-column structure -->
+    <div class="content">
+      <!-- Sidebar (Left column with navigation or table of contents) -->
+      <aside class="sidebar">
+        <nav>
+          <ul>
+            {% for item in site.navigation %}
+              <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </aside>
 
-  <!-- Page content -->
-  <main>
-    {{ content }}
-  </main>
+      <!-- Main content area (Right column with the main page content) -->
+      <main class="main-content">
+        {{ content }}
+      </main>
+    </div>
 
-  <!-- Site footer -->
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+    <!-- Site footer -->
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
+  </div>
 </body>
 </html>
