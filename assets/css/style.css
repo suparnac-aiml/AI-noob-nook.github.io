@@ -2,20 +2,32 @@
 .container {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .sidebar {
-  width: 20%; /* Adjust the width as per your preference */
+  width: 25%; /* Adjust the width as per your preference */
   padding: 10px;
+  background-color: #f4f4f4; /* Light background for sidebar */
 }
 
 .main-content {
-  width: 80%; /* Adjust the width to fit next to the sidebar */
+  width: 70%; /* Adjust the width to fit next to the sidebar */
   padding: 10px;
+  background-color: #fff; /* Main content background */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: adds shadow to the content */
 }
 
 /* Ensures no overlap */
 .content {
   display: flex;
   flex-direction: row;
+}
+
+header {
+  margin-bottom: 20px; /* Adds spacing under header */
+}
+
+footer {
+  margin-top: 20px; /* Adds spacing above footer */
 }
