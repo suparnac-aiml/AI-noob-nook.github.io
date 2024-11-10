@@ -183,5 +183,5 @@ In the next guide, we’ll dive into control flow—learning how to make decisio
 
 **Keep coding, and happy learning!**
 
-[Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
-[Back to Home](index/) 
+[Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)  
+<a href="{{ site.baseurl }}/">Back to Home</a> 
