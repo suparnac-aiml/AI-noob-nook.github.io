@@ -43,4 +43,3 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 
 ## [Day 1: Introduction to Python](day1/)
 ## [Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
-
