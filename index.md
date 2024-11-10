@@ -6,7 +6,7 @@ title: AI Noob Nook
 # Table of Contents
 - [Unveiling the Imperative: Why AI Now?](#why-ai-now)
 - [About AI Noob Nook](#about-ai-noob-nook)
-- [How AI Noob Nook Works](#how-ai-noob-nook-works)
+- [Day 1: Introduction to Python](day1/) 
 
 ---
 
@@ -31,7 +31,7 @@ AI Noob Nook is your gateway to the world of artificial intelligence, designed s
 
 ---
 
-## How AI Noob Nook Works <a name="how-ai-noob-nook-works"></a>
+## How AI Noob Nook Works 
 AI Noob Nook operates as a platform dedicated to bridging the gap between individuals and the vast world of artificial intelligence. We achieve this mission by regularly posting blogs and articles tailored to the needs of beginners, students, and individuals seeking to transition into AI-related roles.
 
 Our targeted audience includes:
@@ -42,4 +42,4 @@ Our targeted audience includes:
 Through our curated content, we aim to empower our audience with the knowledge, skills, and confidence needed to navigate the complexities of AI effectively. Whether you're just getting started or looking to advance your career in the AI domain, AI Noob Nook is here to support you every step of the way.
 
 
-- [Day 1: Introduction to Python](day1/) 
+
