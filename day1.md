@@ -37,11 +37,13 @@ Now, let’s write your first Python program. In the Google Colab notebook, type
 
 ```python 
 print("Hello, World!")
+```
 
 Then, press Shift + Enter (or click the Run button). You should see:
 
 ```
 "Hello, World!"
+```
 
 ### What Did We Do?
 - **print():** This is a built-in Python function that displays whatever is inside the parentheses on the screen. Here, we printed the string "Hello, World!".
@@ -86,19 +88,19 @@ Python is not just for printing text—it’s also a powerful tool for performin
 **Mathematical Operators**
 Here are the basic operators you can use for calculations:
 
-1. **Addition (+):** Adds two numbers.
+1. **Addition (+):** Adds two numbers.  
 Example: 5 + 3 results in 8.
-2. **Subtraction (-):** Subtracts one number from another.
+2. **Subtraction (-):** Subtracts one number from another.  
 Example: 10 - 4 results in 6.
-3. **Multiplication (*):** Multiplies two numbers.
+3. **Multiplication (*):** Multiplies two numbers.  
 Example: 3 * 4 results in 12.
-4. **Division (/):** Divides one number by another. This always gives a float.
+4. **Division (/):** Divides one number by another. This always gives a float.  
 Example: 8 / 2 results in 4.0.
-5. **Floor Division (//):** Divides and returns the integer part of the result (no decimals).
+5. **Floor Division (//):** Divides and returns the integer part of the result (no decimals).  
 Example: 7 // 2 results in 3.
-6. **Modulo (%):** Gives the remainder after division.
+6. **Modulo (%):** Gives the remainder after division.  
 Example: 7 % 3 results in 1.
-7. **Exponentiation** (**): Raises a number to the power of another.
+7. **Exponentiation** (**): Raises a number to the power of another.  
 Example: 2 ** 3 results in 8.
 
 Let’s try a few calculations in Google Colab:
