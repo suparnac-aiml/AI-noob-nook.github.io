@@ -184,4 +184,4 @@ In the next guide, we’ll dive into control flow—learning how to make decisio
 **Keep coding, and happy learning!**
 
 [Day 2:Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
-[Back to Home](index/)
+[Back to Home](index/) 
