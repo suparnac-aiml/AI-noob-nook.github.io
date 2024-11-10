@@ -1,0 +1,21 @@
+/* Two-column layout fix */
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  width: 20%; /* Adjust the width as per your preference */
+  padding: 10px;
+}
+
+.main-content {
+  width: 80%; /* Adjust the width to fit next to the sidebar */
+  padding: 10px;
+}
+
+/* Ensures no overlap */
+.content {
+  display: flex;
+  flex-direction: row;
+}
