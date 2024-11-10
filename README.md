@@ -4,5 +4,5 @@ This roadmap will help you build a solid foundation in key AI concepts, tools, a
 
 Ready to dive into AI? Let's get started!
 
-[Why AI now?](index.md)
+[Why AI now?](index.md)  
 [Day 1: Introduction to Python](day1.md)
