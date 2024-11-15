@@ -12,7 +12,7 @@ permalink: /day2/
 - [Quick Practice](#practice)
 - [Wrap-up](#Wrap-Up)
 - [Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/)
-- [Day 1: Introduction to Python](day1/)
+- <a href="{{ site.baseurl }}/day1/" style="font-size: 16px;">Day 1: Introduction to Python</a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
 ---
@@ -123,6 +123,6 @@ Today, you learned:
 
 **Happy coding! 🚀**
 
-[Day 1: Introduction to Python](day1/)
-[Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/) 
+<a href="{{ site.baseurl }}/day1/" style="font-size: 16px;">Day 1: Introduction to Python</a>  
+[Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/)   
 <a href="{{ site.baseurl }}/">Back to Home</a> 
