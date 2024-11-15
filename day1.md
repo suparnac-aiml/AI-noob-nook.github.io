@@ -10,7 +10,7 @@ permalink: /day1/
 - [Your First Python Code!](#first-code)
 - [Variables and Data Types in Python](#Variables-and-data-types)
 - [Basic Calculations in Python](#basic-calculations)
-- [Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans (Upcoming)](day2/)
+- [Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
 ---
@@ -183,5 +183,5 @@ In the next guide, we’ll dive into control flow—learning how to make decisio
 
 **Keep coding, and happy learning!**
 
-[Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans (Upcoming)](day2/)  
+[Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)  
 <a href="{{ site.baseurl }}/">Back to Home</a> 
