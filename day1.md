@@ -12,7 +12,7 @@ permalink: /day1/
 - [Basic Calculations in Python](#basic-calculations)
 - [Day 2: Types and Variables - Master the Building Blocks of Python!](/day2/)
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-
+- <a href="{{ site.baseurl/day2/ }}/">Day2</a
 ---
 
 ## Day 1: Introduction to Python - Let’s Begin Your Coding Journey!<a name="Introduction-to-Python"></a>
