@@ -6,7 +6,8 @@ title: AI Noob Nook
 # Table of Contents
 - [Unveiling the Imperative: Why AI Now?](#why-ai-now)
 - [About AI Noob Nook](#about-ai-noob-nook)
-- [Day 1: Introduction to Python](day1/) 
+- [Day 1: Introduction to Python](day1/)
+- [Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
 
 ---
 
@@ -42,4 +43,4 @@ Our targeted audience includes:
 Through our curated content, we aim to empower our audience with the knowledge, skills, and confidence needed to navigate the complexities of AI effectively. Whether you're just getting started or looking to advance your career in the AI domain, AI Noob Nook is here to support you every step of the way.
 
 ## [Day 1: Introduction to Python](day1/)
-## [Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans (Upcoming)](day2/)
+## [Day 2: Types and Variables in Python: Strings, Integers, Floats, and Booleans](day2/)
