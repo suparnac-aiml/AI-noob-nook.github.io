@@ -12,6 +12,7 @@ permalink: /day2/
 - [Quick Practice](#practice)
 - [Wrap-up](#Wrap-Up)
 - [Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/)
+- [Day 1: Introduction to Python](day1/)
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
 ---
@@ -121,3 +122,7 @@ Today, you learned:
 - Take a moment to play with these concepts. Experiment, make mistakes, and learn! Tomorrow, we’ll unlock the power of control flow and see how programs can make decisions.
 
 **Happy coding! 🚀**
+
+[Day 1: Introduction to Python](day1/)
+[Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/) 
+<a href="{{ site.baseurl }}/">Back to Home</a> 
