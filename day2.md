@@ -11,7 +11,7 @@ permalink: /day2/
 - [Playing with Variables](#Playing-with-Variables)
 - [Quick Practice](#practice)
 - [Wrap-up](#Wrap-Up)
-- [Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/)
+- <a href="{{ site.baseurl }}/day3/" style="font-size: 16px;">Day 3: Control Flow – Making Decisions in Python</a>  
 - <a href="{{ site.baseurl }}/day1/" style="font-size: 16px;">Day 1: Introduction to Python</a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
@@ -123,6 +123,6 @@ Today, you learned:
 
 **Happy coding! 🚀**
 
-<a href="{{ site.baseurl }}/day1/" style="font-size: 16px;">Day 1: Introduction to Python</a>  
-[Day 3: Control Flow – Making Decisions in Python(Upcoming)](day3/)   
+<a href="{{ site.baseurl }}/day1/" style="font-size: 16px;">Day 1: Introduction to Python</a>   
+<a href="{{ site.baseurl }}/day3/" style="font-size: 16px;">Day 3: Control Flow – Making Decisions in Python</a>     
 <a href="{{ site.baseurl }}/">Back to Home</a> 
