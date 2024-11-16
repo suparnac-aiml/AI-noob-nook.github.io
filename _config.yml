@@ -11,4 +11,5 @@ navigation:
     url: "{{ site.baseurl }}/day1/"
   - name: "Day 2: Types and Variables - Master the Building Blocks of Python!"
     url: "{{ site.baseurl }}/day2/"
-  
+  - name: "Day 3: Control Flow – Making Decisions in Python"
+    url: "{{ site.baseurl }}/day3/"
