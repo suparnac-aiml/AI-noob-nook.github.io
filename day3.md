@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 3: Control Flow – Making Decisions in Python
+title: "Day 3: Control Flow – Making Decisions in Python"
 permalink: /day3/
 ---
 
