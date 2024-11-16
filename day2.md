@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 2 - Types and Variables
+title: "Day 2 - Types and Variables"
 permalink: /day2/
 ---
 
