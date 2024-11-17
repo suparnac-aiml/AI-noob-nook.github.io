@@ -12,6 +12,7 @@ permalink: /day4/
 - [Return Statement](#Return-Statement)
 - [Scope of Variables](#Scope-of-Variables)
 - [Lambda Functions](#Lambda-Functions)
+- <a href="{{ site.baseurl }}/LambdaFunction/" style="font-size: 16px;"> Learn more about Lambda Function</a>
 - [Recursion](#Recursion)
 - [Quick Practice](#practice)
 - [Wrap-Up](#Wrap-Up)
