@@ -13,3 +13,7 @@ navigation:
     url: "{{ site.baseurl }}/day2/"
   - name: "Day 3: Control Flow – Making Decisions in Python"
     url: "{{ site.baseurl }}/day3/"
+  - name: "Day 4: Functions – Modularize Your Code with Python"
+    url: "{{ site.baseurl }}/day4/"
+  - name: "Lambda Function"
+    url: "{{ site.baseurl }}/LambdaFunction/"
