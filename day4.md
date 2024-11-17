@@ -126,7 +126,7 @@ square = lambda x: x ** 2
 result = square(5)  # Output: 25
 ```
 
-### <a href="{{ site.baseurl }}/LambdaFunction/" style="font-size: 16px;">Lambda Function</a>)
+### <a href="{{ site.baseurl }}/LambdaFunction/" style="font-size: 16px;">Learn more about Lambda Function here</a>
 
 ### Recursion <a name="Recursion"></a>  
 Recursion occurs when a function calls itself. It is useful for problems that can be broken down into smaller sub-problems.
