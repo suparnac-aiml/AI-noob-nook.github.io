@@ -5,13 +5,13 @@ permalink: /day1/
 ---
 
 # Table of Contents
-- [Day 1: Introduction to Python - Let’s Begin Your Coding Journey!](#Introduction-to-Python)
-- [Setting Up Python with Google Colab](#google-colab)
-- [Your First Python Code!](#first-code)
-- [Variables and Data Types in Python](#Variables-and-data-types)
-- [Basic Calculations in Python](#basic-calculations)
-- <a href="{{ site.baseurl }}/day2/" style="font-size: 16px;">Day 2: Types and Variables - Master the Building Blocks of Python!</a>
-- <a href="{{ site.baseurl }}/">Back to Home</a>
+- [Day 1: Introduction to Python - Let’s Begin Your Coding Journey!](#Introduction-to-Python)  
+- [Setting Up Python with Google Colab](#google-colab)  
+- [Your First Python Code!](#first-code)  
+- [Variables and Data Types in Python](#Variables-and-data-types)  
+- [Basic Calculations in Python](#basic-calculations)  
+- <a href="{{ site.baseurl }}/day2/" style="font-size: 16px;">Day 2: Types and Variables - Master the Building Blocks of Python!</a>  
+- <a href="{{ site.baseurl }}/">Back to Home</a>  
 
 ---
 
@@ -185,4 +185,4 @@ In the next guide, we’ll dive into control flow—learning how to make decisio
 
 <a href="{{ site.baseurl }}/day2/" style="font-size: 16px;">Day 2: Types and Variables - Master the Building Blocks of Python!</a>    
 
-<a href="{{ site.baseurl }}/">Back to Home</a> 
+<a href="{{ site.baseurl }}/">Back to Home</a>   
