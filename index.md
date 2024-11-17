@@ -9,7 +9,8 @@ title: AI Noob Nook
 - [Day 1: Introduction to Python](day1/)
 - [Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)
 - [Day 3: Control Flow – Making Decisions in Python](day3/)
-- [Day 4: Control Flow in Python - Making Your Code Think!(Upcoming)](day4/)
+- [Day 4: Functions – Modularize Your Code with Python](day4/)
+- [Day 5: Exploring Data Structures in Python (Upcoming)]
 
 ---
 
@@ -44,7 +45,8 @@ Our targeted audience includes:
 
 Through our curated content, we aim to empower our audience with the knowledge, skills, and confidence needed to navigate the complexities of AI effectively. Whether you're just getting started or looking to advance your career in the AI domain, AI Noob Nook is here to support you every step of the way.
 
-[Day 1: Introduction to Python](day1/)
-[Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)
-[Day 3: Control Flow – Making Decisions in Python](day3/)
-[Day 4: Control Flow in Python - Making Your Code Think!(Upcoming)](day4/)
+[Day 1: Introduction to Python](day1/)  
+[Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)  
+[Day 3: Control Flow – Making Decisions in Python](day3/)  
+[Day 4: Functions – Modularize Your Code with Python](day4/)   
+[Day 5: Exploring Data Structures in Python (Upcoming)]
