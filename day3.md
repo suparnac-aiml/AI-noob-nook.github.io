@@ -18,7 +18,8 @@ permalink: /day3/
 - [Wrap-up](#Wrap-Up)
 - <a href="{{ site.baseurl }}/day2/" style="font-size: 16px;"> Day 2: Types and Variables</a>
 - <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python</a>
-- <a href="{{ site.baseurl }}/">Back to Home</a>
+- <a href="{{ site.baseurl }}/" style="font-size: 16px;">Back to Home</a>
+
 ---
 
 ### Day 3: Control Flow – Making Decisions in Python <a name="Control-Flow"></a>
