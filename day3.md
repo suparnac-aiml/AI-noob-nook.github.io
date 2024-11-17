@@ -16,10 +16,9 @@ permalink: /day3/
 - [Break and Continue](#Break-and-Continue)
 - [Quick Practice](#practice)
 - [Wrap-up](#Wrap-Up)
-- [Day 4: Control Flow in Python - Making Your Code Think!(Upcoming)](day4/)
 - <a href="{{ site.baseurl }}/day2/" style="font-size: 16px;"> Day 2: Types and Variables</a>
+- <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python</a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-
 ---
 
 ### Day 3: Control Flow – Making Decisions in Python <a name="Control-Flow"></a>
@@ -161,6 +160,6 @@ Today, you learned:
 
 **Keep coding, and happy learning! 🚀**
 
-<a href="{{ site.baseurl }}/day2/" style="font-size: 16px;"> Day 2: Types and Variables</a>   
-[Day 4: Control Flow in Python - Making Your Code Think!(Upcoming)](day4/)   
-<a href="{{ site.baseurl }}/">Back to Home</a> 
+<a href="{{ site.baseurl }}/day2/" style="font-size: 16px;"> Day 2: Types and Variables</a>     
+<a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python</a>   
+<a href="{{ site.baseurl }}/">Back to Home</a>   
