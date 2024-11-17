@@ -8,6 +8,8 @@ permalink: /LambdaFunction/
 - [Lambda Function](#Lambda-Function)
 - [Syntax](#syntax)
 - [Use Cases](#Use-Cases)
+- <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python</a>
+- <a href="{{ site.baseurl }}/">Back to Home</a>
 ## Lambda Function  <a name="Lambda-Function"></a>
 A lambda function in Python is a small, anonymous function that is defined using the **"lambda"** Keyword. Unlike a regular function that is defined with a *'def'* keyword a Lambda function *can have only **one expression*** and doen't required a name.
 
@@ -64,3 +66,7 @@ print(sorted_tup)  # Output: [(1, 'one'), (3, 'three'), (2, 'two')]
 
 **2. As a Quick Throwaway Function:**  
 Lambda functions are useful when you need a small function for a short period of time and don't want to formally define it with a *def* statement.
+
+
+- <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python</a>  
+- <a href="{{ site.baseurl }}/">Back to Home</a>
