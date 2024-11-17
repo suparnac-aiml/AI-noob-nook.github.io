@@ -9,7 +9,7 @@ permalink: /LambdaFunction/
 - [Syntax](#syntax)
 - [Use Cases](#Use-Cases)
 ## Lambda Function  <a name="Lambda-Function"></a>
-A lambda function in Python is a small, anonymous function that is defined using the **'lambda'** Keyword. Unlike a regular function that is defined with a *'def'* keyword a Lambda function *can have only **one expression*** and doen't required a name.
+A lambda function in Python is a small, anonymous function that is defined using the **"lambda"** Keyword. Unlike a regular function that is defined with a *'def'* keyword a Lambda function *can have only **one expression*** and doen't required a name.
 
 ### Characteristics of Lambda Function:-
 
@@ -17,15 +17,16 @@ A lambda function in Python is a small, anonymous function that is defined using
 
 **2. Single Expression:** They are restricted to a single expression. This expression is evaluated and returned when the function is called.
 
-**3. Concise:** Lambda functions are typically used for short, simple operations that are passed as arguments to higher-order functions like **'map()', 'filter()', 'sorted()".**
+**3. Concise:** Lambda functions are typically used for short, simple operations that are passed as arguments to higher-order functions like **map(), filter(), sorted().**
 
 ### **Syntax:**  <a name="syntax"></a>
 ```python
 lambda <arguments>:<expression>
 ```
 
-**<arguments >:** A comma-seperated list of arguments   
-**<expression>:** A single expression that is evaluated and returned.  
+**arguments:** A comma-seperated list of arguments  
+
+**expression:** A single expression that is evaluated and returned.  
 
 **Example:**
 ```python
