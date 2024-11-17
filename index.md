@@ -10,7 +10,7 @@ title: AI Noob Nook
 - [Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)
 - [Day 3: Control Flow – Making Decisions in Python](day3/)
 - [Day 4: Functions – Modularize Your Code with Python](day4/)
-- [Day 5: Exploring Data Structures in Python (Upcoming)]
+- [Day 5: Exploring Data Structures in Python (Upcoming)](day5/)
 
 ---
 
