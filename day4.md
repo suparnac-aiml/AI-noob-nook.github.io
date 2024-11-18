@@ -17,7 +17,7 @@ permalink: /day4/
 - [Quick Practice](#practice)
 - [Wrap-Up](#Wrap-Up)
 - <a href="{{ site.baseurl }}/day3/" style="font-size: 16px;"> Day 3: Control Flow – Making Decisions in Python</a>   
-- Day 5: Exploring Data Structures in Python (Upcoming)  
+- <a href="{{ site.baseurl }}/day5/" style="font-size: 16px;">Day 5: Exploring Data Structures in Python </a> 
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
 ## Day 4: Functions – Modularize Your Code with Python <a name="day4"></a>  
@@ -160,5 +160,5 @@ In the next lesson, we’ll explore Data Structures in Python, which will help y
 **Keep coding, and stay curious! 🚀**
 
 <a href="{{ site.baseurl }}/day3/" style="font-size: 16px;"> Day 3: Control Flow – Making Decisions in Python</a>   
-Day 5: Exploring Data Structures in Python (Upcoming)  
-<a href="{{ site.baseurl }}/">Back to Home</a>  
+- <a href="{{ site.baseurl }}/day5/" style="font-size: 16px;">Day 5: Exploring Data Structures in Python </a>     
+<a href="{{ site.baseurl }}/">Back to Home</a>    
