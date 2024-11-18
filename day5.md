@@ -10,7 +10,7 @@ permalink: /day5/
 - [Tuples – Immutable Collections](#tuples)
 - [Sets – Unique and Unordered](#sets)
 - [Dictionaries – Key-Value Pairs](#dictionaries)
-- [Quick Comparison of Data Structures](#comparision)
+- [Quick Comparison of Data Structures](#comparison)
 - [Practice Problems](#practice)
 - [Wrap-Up](#wrap-up)
 - <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python </a>   
