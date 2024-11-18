@@ -17,3 +17,5 @@ navigation:
     url: "{{ site.baseurl }}/day4/"
   - name: "Lambda Function"
     url: "{{ site.baseurl }}/LambdaFunction/"
+  - name: "Day 5: Exploring Data Structures in Python"
+    url: "{{ site.baseurl }}/day5/"
