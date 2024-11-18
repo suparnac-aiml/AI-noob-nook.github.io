@@ -150,12 +150,13 @@ print(student)  # {'name': 'John', 'age': 22, 'grade': 'A', 'subject': 'Math'}
 
 ### Quick Comparison of Data Structures <a name="comparison"></a>  
 
-| **Data Structure** | **Ordered** | **Mutable** | **Duplicates Allowed**      | **How to define**| **Use Case**                         |
-------------------------------------------------------------------------------------------------------------------------------------------
-| **List**           | Yes         | Yes         | Yes                         |  [ ]             | General-purpose, dynamic collection. |
-| **Tuple**          | Yes         | NO          | Yes                         |  ( )             | Immutable data, safe from changes.   |
-| **Set**            | NO          | Yes         | NO                          |  { }             | Unique values, set operations.       |
-| **Dictionary**     | NO          | Yes         |  - keys: NO,  - Values: Yes |  { } with :      | Key-value storage, fast lookups      |
+| **Data Structure** | **Ordered** | **Mutable** | **Duplicates Allowed** | **How to define** | **Use Case**                         |
+|--------------------|-------------|-------------|------------------------|-------------------|--------------------------------------|
+| **List**           | Yes         | Yes         | Yes                    | `[ ]`             | General-purpose, dynamic collection. |
+| **Tuple**          | Yes         | No          | Yes                    | `( )`             | Immutable data, safe from changes.   |
+| **Set**            | No          | Yes         | No                     | `{ }`             | Unique values, set operations.       |
+| **Dictionary**     | No          | Yes         | Keys: No, Values: Yes  | `{ } with :`      | Key-value storage, fast lookups.     |
+
 
 
 ### Practice Problems <a name="practice"></a>  
