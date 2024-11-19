@@ -19,3 +19,5 @@ navigation:
     url: "{{ site.baseurl }}/LambdaFunction/"
   - name: "Day 5: Exploring Data Structures in Python"
     url: "{{ site.baseurl }}/day5/"
+  - name: "Day 6: File Handling in Python – Manage and Process Data Efficiently"
+    url: "{{ site.baseurl }}/day6/"
