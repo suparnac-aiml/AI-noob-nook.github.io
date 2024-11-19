@@ -14,7 +14,7 @@ permalink: /day5/
 - [Practice Problems](#practice)
 - [Wrap-Up](#wrap-up)
 - <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python </a>
-- <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
+- <a href="{{ site.baseurl }}/day6/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 
 
@@ -175,5 +175,5 @@ Today, you explored the foundational data structures in Python:
 - These structures form the core of Python programming and are used extensively in real-world applications. Practice using them in your projects to build your confidence.
 
 <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 4: Functions – Modularize Your Code with Python </a>     
-- <a href="{{ site.baseurl }}/day4/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
+- <a href="{{ site.baseurl }}/day6/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
 <a href="{{ site.baseurl }}/">Back to Home</a>  
