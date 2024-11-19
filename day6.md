@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Day 6: File Handling in Python – Manage and Process Data Efficiently
+title: "Day 6: File Handling in Python – Manage and Process Data Efficiently"
 permalink: /day6/
 ---
-
-# Day 6: File Handling in Python – Manage and Process Data Efficiently
 
 # Table of Contents
 - [What is File Handling?](#what-is-file-handling)
