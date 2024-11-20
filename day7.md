@@ -29,7 +29,7 @@ Welcome to Day 7! Today, we'll dive into error and exception handling, an essent
 ### Common Errors in Python <a name="Common-Errors-in-Python"></a>
 
 | **Error Type**      | **Description**                     | **Example**                  |
-|---------------------|-------------------------------------|------------------------------|
+---------------------------------------------------------------------------------------------
 | SyntaxError         | Incorrect Python syntax            | `print("Hello` (missing `)`)` |
 | TypeError           | Operation on incompatible types    | `5 + "string"`              |
 | ValueError          | Function gets inappropriate input  | `int("hello")`              |
