@@ -11,7 +11,9 @@ title: AI Noob Nook
 - [Day 3: Control Flow – Making Decisions in Python](day3/)
 - [Day 4: Functions – Modularize Your Code with Python](day4/)
 - [Day 5: Exploring Data Structures in Python](day5/)
-- [Day 6: File Handling in Python – Manage and Process Data Efficiently(Upcoming)](day6/)
+- [Day 6: File Handling in Python – Manage and Process Data Efficiently](day6/)
+- [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
+- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure(Upcoming)](day8/)
 
 ---
 
@@ -46,9 +48,11 @@ Our targeted audience includes:
 
 Through our curated content, we aim to empower our audience with the knowledge, skills, and confidence needed to navigate the complexities of AI effectively. Whether you're just getting started or looking to advance your career in the AI domain, AI Noob Nook is here to support you every step of the way.
 
-[Day 1: Introduction to Python](day1/)  
-[Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)  
-[Day 3: Control Flow – Making Decisions in Python](day3/)  
-[Day 4: Functions – Modularize Your Code with Python](day4/)   
-[Day 5: Exploring Data Structures in Python](day5/)  
-Day 6: File Handling in Python – Manage and Process Data Efficiently (Upcoming)  
+- [Day 1: Introduction to Python](day1/)
+- [Day 2: Types and Variables - Master the Building Blocks of Python!](day2/)
+- [Day 3: Control Flow – Making Decisions in Python](day3/)
+- [Day 4: Functions – Modularize Your Code with Python](day4/)
+- [Day 5: Exploring Data Structures in Python](day5/)
+- [Day 6: File Handling in Python – Manage and Process Data Efficiently](day6/)
+- [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
+- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure(Upcoming)](day8/)
