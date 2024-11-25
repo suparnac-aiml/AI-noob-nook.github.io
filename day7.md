@@ -20,7 +20,7 @@ Welcome to Day 7! Today, we'll dive into error and exception handling, an essent
 - [Wrap-Up](#Wrap-Up)
 - <a href="{{ site.baseurl }}/day6/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure  </a>
 
 ### What are Errors and Exceptions?  <a name="What-are-Errors-and-Exceptions"></a>  
 **Errors:** Issues in code that prevent execution (e.g., syntax errors).  
@@ -152,4 +152,4 @@ Today, you learned:
 
 - <a href="{{ site.baseurl }}/day6/" style="font-size: 16px;"> Day 6: File Handling in Python – Manage and Process Data Efficiently </a>    
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure </a>
