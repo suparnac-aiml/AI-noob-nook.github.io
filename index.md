@@ -13,8 +13,8 @@ title: AI Noob Nook
 - [Day 5: Exploring Data Structures in Python](day5/)
 - [Day 6: File Handling in Python – Manage and Process Data Efficiently](day6/)
 - [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
-- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure(Upcoming)](day8/)
-
+- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
+- [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming)](day9/)
 ---
 
 ## Unveiling the Imperative: Why AI Now? <a name="why-ai-now"></a>
@@ -55,4 +55,5 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 5: Exploring Data Structures in Python](day5/)
 - [Day 6: File Handling in Python – Manage and Process Data Efficiently](day6/)
 - [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
-- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure(Upcoming)](day8/)
+- [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
+- [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming)](day9/)
