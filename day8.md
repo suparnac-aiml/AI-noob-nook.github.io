@@ -27,7 +27,7 @@ Let’s explore OOP concepts in Python in detail with examples and real-time use
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 - <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming) </a>
 ---
-## Why Use OOP?  <a name= ""why-OOP"></a>  
+## Why Use OOP?  <a name="why-OOP"></a>  
 1. **Reusability**: Code can be reused across projects.  
 2. **Modularity**: Break complex problems into smaller parts.  
 3. **Maintainability**: Changes can be made to individual parts without affecting others.  
