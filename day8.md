@@ -26,6 +26,7 @@ Let’s explore OOP concepts in Python in detail with examples and real-time use
 - <a href="{{ site.baseurl }}/day7/" style="font-size: 16px;"> Day 7: Error and Exception Handling in Python – Build Resilient Code </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 - <a href="{{ site.baseurl }}/day9/" style="font-size: 16px;"> Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming) </a>
+
 ---
 ## Why Use OOP?  <a name="why-OOP"></a>  
 1. **Reusability**: Code can be reused across projects.  
@@ -241,7 +242,9 @@ Don't forget to practice creating your own classes and objects with real-world e
 **See you on Day 9!**  
 **Happy Coding!!!**  
 ---
+
 - <a href="{{ site.baseurl }}/day7/" style="font-size: 16px;"> Day 7: Error and Exception Handling in Python – Build Resilient Code </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
 - <a href="{{ site.baseurl }}/day9/" style="font-size: 16px;"> Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming) </a>
+
 ---
