@@ -25,4 +25,7 @@ navigation:
     url: "{{ site.baseurl }}/day7/"
   - name: "Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure"
     url: "{{ site.baseurl }}/day8/" 
-  
+  - name: "Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability"
+    url: "{{ site.baseurl }}/day9/"
+  - name: "Day 10: Python Libraries and Frameworks – Boost Your Productivity"
+    url: "{{ site.baseurl }}/day10/"
