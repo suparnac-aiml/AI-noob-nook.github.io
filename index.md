@@ -57,6 +57,6 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 6: File Handling in Python – Manage and Process Data Efficiently](day6/)
 - [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
 - [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
-- [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability (Upcoming)](day9/)
-
+- [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability](day9/)
+- [Day 10: Python Libraries and Frameworks – Boost Your Productivity (Upcoming)](day10/)
 ---
