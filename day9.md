@@ -28,7 +28,7 @@ In Python, as you build bigger and more complex projects, you’ll want to **org
 ## What are Modules?  <a name="modules"></a>
 A **module** is simply a file containing Python definitions (functions, classes, variables) and statements. This allows you to break down your code into smaller, manageable chunks. Instead of writing everything in one large file, you can create multiple files (modules) and import them wherever needed.
 
-### How to Create a Module  <a name="create"></a>
+## How to Create a Module  <a name="create"></a>
 You can create a module by saving your Python code in a `.py` file. For example, create a file called `math_operations.py` and add the following code:
 
 ```python
@@ -51,7 +51,7 @@ result = math_operations.add(5, 3)
 print(result)  # Output: 8
 ```
 
-### How to Import Specific Functions from a Module  <a name="import"></a>
+## How to Import Specific Functions from a Module  <a name="import"></a>
 You don’t always need to import the entire module. You can import specific functions from a module to keep your code cleaner and more efficient:
 
 ```python
@@ -67,7 +67,7 @@ print(result)  # Output: 8
 ## What are Packages?  <a name="packages"></a>
 A **package** is a collection of modules grouped together under one directory. Packages help you organize related modules in one place. For example, a package for file handling might include modules for reading, writing, and processing files.
 
-### How to Create a Package  <a name="create-packages"></a>
+## How to Create a Package  <a name="create-packages"></a>
 1. Create a directory for your package, e.g., `mypackage`.
 2. Inside the directory, create a special file called `__init__.py` (this makes it a package).
 3. Add Python files (modules) inside this directory.
@@ -135,7 +135,7 @@ Python comes with a lot of built-in modules that you can use in your projects. H
 
 ---
 
-### Wrap-Up <a name="Wrap-Up"></a>  
+## Wrap-Up <a name="Wrap-Up"></a>  
 
 Today, we explored how **modules and packages** make Python programming more organized, reusable, and scalable. Here's what we covered:  
 
