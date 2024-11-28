@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development"
-permalink: /day9/
+permalink: /day10/
 ---
 
 # Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development  
