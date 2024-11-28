@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability"
+permalink: /day9/
+---
 
 ### Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability
 
