@@ -15,7 +15,9 @@ title: AI Noob Nook
 - [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
 - [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
 - [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability](day9/)
-- [Day 10: Python Libraries and Frameworks – Boost Your Productivity (Upcoming)](day10/)
+- [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
+- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data! (Upcoming)](day11/)
+
 ---
 
 ## Unveiling the Imperative: Why AI Now? <a name="why-ai-now"></a>
@@ -58,5 +60,7 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 7: Error and Exception Handling in Python – Build Resilient Code](day7)
 - [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
 - [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability](day9/)
-- [Day 10: Python Libraries and Frameworks – Boost Your Productivity (Upcoming)](day10/)
+- [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
+- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data! (Upcoming)](day11/)
+
 ---
