@@ -1,8 +1,4 @@
----
-layout: default
-title: "Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability"
-permalink: /day9/
----
+
 
 ### Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability
 
@@ -21,7 +17,7 @@ In Python, as you build bigger and more complex projects, you’ll want to **org
 - [Wrap-Up](#Wrap-Up)
 - <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;"> Day 10: Python Libraries and Frameworks – Boost Your Productivity (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;"> Day 10: Python Libraries and Frameworks – Boost Your Productivity  </a>
 
 --- 
 
@@ -155,4 +151,4 @@ By organizing your code into modules and packages, you can make your Python prog
 
 - <a href="{{ site.baseurl }}/day8/" style="font-size: 16px;"> Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;"> Day 10: Python Libraries and Frameworks – Boost Your Productivity (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;"> Day 10: Python Libraries and Frameworks – Boost Your Productivity  </a>
