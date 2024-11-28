@@ -25,16 +25,18 @@ Python's libraries and frameworks enable developers to handle complex tasks with
 ---
 
 ## 1. Libraries for Data Manipulation and Analysis  <a name="Data-Manipulation-and-Analysis"></a>
-| Library      | Description                         | Use Case Example                                   |
-|--------------|-------------------------------------|--------------------------------------------------|
-| `NumPy`      | Powerful numerical computations.   | Handling arrays, performing linear algebra.      |
-| `Pandas`     | Data manipulation and analysis.    | Working with tabular data (e.g., CSV, Excel).    |
-| `Matplotlib` | Data visualization.                | Creating charts and graphs.                      |
-| `Seaborn`    | Statistical data visualization.    | Plotting heatmaps, distributions, and more.      |
+
+| Library    | Description                      | Use Case Example                           |
+|------------|----------------------------------|--------------------------------------------|
+| NumPy      | Powerful numerical computations | Handling arrays, performing linear algebra |
+| Pandas     | Data manipulation and analysis  | Working with tabular data (e.g., CSV, Excel) |
+| Matplotlib | Data visualization              | Creating charts and graphs                 |
+| Seaborn    | Statistical data visualization  | Plotting heatmaps, distributions, and more |
 
 ---
 
 ## 2. Libraries for Machine Learning and AI  <a name="Machine-Learning-and-AI"></a>
+
 | Library        | Description                                  | Use Case Example                                 |
 |----------------|----------------------------------------------|-------------------------------------------------|
 | `scikit-learn` | Basic machine learning algorithms.           | Classification, regression, and clustering.     |
@@ -45,27 +47,33 @@ Python's libraries and frameworks enable developers to handle complex tasks with
 ---
 
 ## 3. Libraries for Web Development  <a name="Web-Development"></a>
+
 | Framework/Library | Description                          | Use Case Example                                |
 |-------------------|--------------------------------------|------------------------------------------------|
-| `Flask`           | Lightweight web framework.           | Developing simple APIs and small web apps.     |
-| `Django`          | Full-stack web framework.            | Building robust and scalable websites.         |
-| `FastAPI`         | Modern web framework for APIs.       | Creating fast and asynchronous APIs.           |
+| `Flask`           | Lightweight web framework.          | Developing simple APIs and small web apps.     |
+| `Django`          | Full-stack web framework.           | Building robust and scalable websites.         |
+| `FastAPI`         | Modern web framework for APIs.      | Creating fast and asynchronous APIs.           |
+
 
 ---
 
 ## 4. Libraries for Automation and Web Scraping  <a name="Automation-and-Web-Scraping"></a>
+
 | Library          | Description                          | Use Case Example                               |
 |------------------|--------------------------------------|-----------------------------------------------|
 | `Selenium`       | Automates web browser interaction.   | Testing web applications or scraping data.    |
 | `BeautifulSoup`  | Parses HTML and XML documents.       | Extracting data from web pages.               |
 | `Requests`       | Sends HTTP requests.                 | Interacting with web APIs and retrieving data.|
 
+
 ---
 
 ## 5. Libraries for Game Development  <a name="Game-Development"></a>
+
 | Library         | Description                           | Use Case Example                               |
 |-----------------|---------------------------------------|-----------------------------------------------|
 | `Pygame`        | Game development library.             | Creating 2D games and interactive apps.       |
+
 
 ---
 
