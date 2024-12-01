@@ -20,7 +20,7 @@ Python's libraries and frameworks enable developers to handle complex tasks with
 - [Practical Exercise](#Practical)
 - <a href="{{ site.baseurl }}/day9/" style="font-size: 16px;"> Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data (Upcoming) </a> 
+- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data!  </a> 
 
 ---
 
@@ -96,4 +96,4 @@ Python's libraries and frameworks enable developers to handle complex tasks with
 
 - <a href="{{ site.baseurl }}/day9/" style="font-size: 16px;"> Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data! </a>
