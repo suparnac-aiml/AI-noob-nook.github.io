@@ -67,7 +67,6 @@ print(data.isnull().sum())
 print(data.describe())
 ```
 
----
 
 ### **Step 3: Cleaning Data**  
 Data cleaning ensures the dataset is accurate and ready for analysis.  
@@ -82,7 +81,6 @@ data.drop_duplicates(inplace=True)
 data.rename(columns={'OldName': 'NewName'}, inplace=True)
 ```
 
----
 
 ### **Step 4: Data Manipulation**  
 Use Pandas to transform and manipulate the dataset.  
