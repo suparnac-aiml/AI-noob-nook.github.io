@@ -10,7 +10,21 @@ Data science is one of the most exciting and rapidly growing fields in technolog
 
 ---
 
-## **1. What is Data Science?**  
+## Table of Contents
+- [What is Data Science?](#DS)
+- [Key Python Libraries for Data Science](#PyLib)
+- [Steps in Data Analysis](#DA)
+- [Real-World Example: Analyzing a Dataset](#iris)
+- [Check out the Data_Visualization.ipynb file](#file)
+- [Practical Use Cases](#Use-Case)
+- [Key Takeaways](#KT)
+- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;">  Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development </a>
+- <a href="{{ site.baseurl }}/">Back to Home</a>
+- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing  </a>
+
+---
+
+## **1. What is Data Science?**  <a name="DS"></a>
 Data science involves extracting meaningful insights from data through processes like:  
 - Collecting and cleaning data.  
 - Analyzing data to identify patterns.  
@@ -21,7 +35,7 @@ Python provides numerous libraries to assist in each step of this process, such 
 
 ---
 
-## **2. Key Python Libraries for Data Science**  
+## **2. Key Python Libraries for Data Science**  <a name="PyLib"></a>
 Here’s an overview of the core Python libraries we'll use:  
 
 | Library        | Description                                | Use Case Example                               |
@@ -33,7 +47,7 @@ Here’s an overview of the core Python libraries we'll use:
 
 ---
 
-## **3. Steps in Data Analysis**
+## **3. Steps in Data Analysis** <a name=""DA></a>
 Let’s break down a typical data science workflow:
 
 ### **Step 1: Importing Necessary Libraries**
@@ -131,7 +145,7 @@ plt.show()
 
 ---
 
-## **4. Real-World Example: Analyzing a Dataset**  
+## **4. Real-World Example: Analyzing a Dataset**  <a anme="iris"></a>
 Let’s analyze IRIS dataset:  
 
 **Iris Dataset Overview**  
@@ -231,17 +245,17 @@ plt.title('Sepal Length vs Sepal Width')
 plt.show()
 ```
 
-### ***Check out the Data_Visualization.ipynb file [here](https://colab.research.google.com/drive/1Uycq6Z0yfc-9VxPn4niYa_LkH4z52t7N?usp=sharing)***
+### ***Check out the Data_Visualization.ipynb file [here](https://colab.research.google.com/drive/1Uycq6Z0yfc-9VxPn4niYa_LkH4z52t7N?usp=sharing)***   <a name="file"></a>
 
 ---
 
-## **5. Practical Use Cases**
+## **5. Practical Use Cases** <a name="Use-Case"></a>
 - **Retail**: Analyzing sales trends to identify top-performing products.
 - **Finance:** Studying stock market trends or customer spending patterns.
 - **Healthcare:** Visualizing patient data for insights into diseases.
 - **Social Media:** Analyzing user behavior to improve engagement.
 
-## **6. Key Takeaways**
+## **6. Key Takeaways** <a name="KT"></a>
 - NumPy is essential for numerical computations.
 - Pandas is your go-to tool for data manipulation.
 - Matplotlib and Seaborn help visualize insights effectively.
@@ -250,3 +264,8 @@ plt.show()
 In the next session, we’ll dive deeper into NumPy, learning how to perform advanced numerical computations that power data science workflows.
 
 **Stay curious, keep exploring, and power up your data science journey with Python!**
+
+
+- <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;">  Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development </a>
+- <a href="{{ site.baseurl }}/">Back to Home</a>
+- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing  </a>
