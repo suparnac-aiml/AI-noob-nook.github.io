@@ -16,8 +16,8 @@ title: AI Noob Nook
 - [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
 - [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability](day9/)
 - [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
-- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data! (Upcoming)](day11/)
-
+- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
+- [Day 12: NumPy Basics – Powerful Numerical Computing (Upcoming)](day12/)
 ---
 
 ## Unveiling the Imperative: Why AI Now? <a name="why-ai-now"></a>
@@ -61,6 +61,7 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 8: Object-Oriented Programming (OOP) in Python – Organizing Code for Better Reusability and Structure](day8/)
 - [Day 9: Modules and Packages in Python – Organizing Your Code for Better Maintainability](day9/)
 - [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
-- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data! (Upcoming)](day11/)
-
+- [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
+- [Day 12: NumPy Basics – Powerful Numerical Computing (Upcoming)](day12/)
+  
 ---
