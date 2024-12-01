@@ -143,7 +143,7 @@ Each sample in the dataset contains four features (attributes):
 - Sepal Width – Width of the sepal in centimeters.
 - Petal Length – Length of the petal in centimeters.
 - Petal Width – Width of the petal in centimeters.
-- 
+
 The dataset is widely used in machine learning for classification problems, as it provides a clean and simple set of data that can be used to apply classification algorithms and evaluate their performance.
 
 **Structure of the Iris Dataset**  
