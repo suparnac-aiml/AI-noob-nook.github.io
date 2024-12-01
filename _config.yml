@@ -29,3 +29,5 @@ navigation:
     url: "{{ site.baseurl }}/day9/"
   - name: "Day 10: Python Libraries and Frameworks – Boost Your Productivity"
     url: "{{ site.baseurl }}/day10/"
+  - name: "Day 11: Python for Data Science – Let’s Analyze and Visualize Data!"
+    url: "{{ site.baseurl }}/day11/"
