@@ -20,7 +20,7 @@ Data science is one of the most exciting and rapidly growing fields in technolog
 - [Key Takeaways](#KT)
 - <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;">  Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing </a>
 
 ---
 
@@ -268,4 +268,4 @@ In the next session, we’ll dive deeper into NumPy, learning how to perform adv
 
 - <a href="{{ site.baseurl }}/day10/" style="font-size: 16px;">  Day 10: Exploring Python Libraries and Frameworks – Powering Up Your Development </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day12/" style="font-size: 16px;">  Day 12: NumPy Basics – Powerful Numerical Computing </a>
