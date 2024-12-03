@@ -18,7 +18,9 @@ title: AI Noob Nook
 - [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
 - [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
 - [Day 12: NumPy Basics – Powerful Numerical Computing](day12/)
-- [Day 13: Pandas – Data Manipulation and Analysis (Upcoming)](day13/)
+- [Day 13: Pandas – Data Manipulation and Analysis](day13/)
+- [Day 14: Data Visualization with Matplotlib and Seaborn (Upcoming)](#day14/)
+
   
 ---
 
@@ -65,6 +67,9 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 10: Python Libraries and Frameworks – Boost Your Productivity](day10/)
 - [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
 - [Day 12: NumPy Basics – Powerful Numerical Computing](day12/)
-- [Day 13: Pandas – Data Manipulation and Analysis (Upcoming)](day13/)
+- [Day 13: Pandas – Data Manipulation and Analysis ](day13/)
+- [Day 14: Data Visualization with Matplotlib and Seaborn (Upcoming)](#day14/)
+
+
 
 ---
