@@ -23,9 +23,9 @@ NumPy (Numerical Python) is a fundamental library in Python for numerical comput
 10. [Real-world Example: Temperature Conversion](#real-world-example-temperature-conversion)
 11. [Advantages of NumPy over Python Lists](#advantages-of-numpy-over-python-lists)
 12. [Wrap-Up](#Wrap-Up)
-- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data! </a>
-- <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis (Upcoming) </a>
+<a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data! </a>  
+<a href="{{ site.baseurl }}/">Back to Home</a>  
+<a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis  </a>  
 
 
 ---
@@ -213,7 +213,7 @@ NumPy is a powerhouse for numerical computing in Python, offering speed, efficie
 
 Stay tuned for Day 13 as we dive deeper into Pandas – the ultimate data manipulation library! 🚀
 
-- <a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data! </a>
-- <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis (Upcoming) </a>
+<a href="{{ site.baseurl }}/day11/" style="font-size: 16px;">  Day 11: Python for Data Science – Let’s Analyze and Visualize Data! </a>  
+<a href="{{ site.baseurl }}/">Back to Home</a>  
+<a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis </a>  
 
