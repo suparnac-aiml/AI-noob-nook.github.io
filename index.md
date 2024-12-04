@@ -19,7 +19,8 @@ title: AI Noob Nook
 - [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
 - [Day 12: NumPy Basics – Powerful Numerical Computing](day12/)
 - [Day 13: Pandas – Data Manipulation and Analysis](day13/)
-- [Day 14: Data Visualization with Matplotlib and Seaborn (Upcoming)](#day14/)
+- [Day 14: Data Visualization with Matplotlib and Seaborn](#day14/)
+- [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data (Upcoming)](#day15)
 
   
 ---
@@ -68,8 +69,8 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 11: Python for Data Science – Let’s Analyze and Visualize Data!](day11/)
 - [Day 12: NumPy Basics – Powerful Numerical Computing](day12/)
 - [Day 13: Pandas – Data Manipulation and Analysis ](day13/)
-- [Day 14: Data Visualization with Matplotlib and Seaborn (Upcoming)](#day14/)
-
+- [Day 14: Data Visualization with Matplotlib and Seaborn](#day14/)
+- [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data (Upcoming)](#day15)
 
 
 ---
