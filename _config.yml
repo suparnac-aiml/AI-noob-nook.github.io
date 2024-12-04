@@ -35,3 +35,5 @@ navigation:
     url: "{{ site.baseurl }}/day12/"
   - name: "Day 13: Pandas – Data Manipulation and Analysis"
     url: "{{ site.baseurl }}/day13/"
+  - name: "Day 14: Data Visualization with Matplotlib and Seaborn"
+    url: "{{ site.baseurl }}/day14/"
