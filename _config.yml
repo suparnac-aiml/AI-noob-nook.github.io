@@ -37,3 +37,5 @@ navigation:
     url: "{{ site.baseurl }}/day13/"
   - name: "Day 14: Data Visualization with Matplotlib and Seaborn"
     url: "{{ site.baseurl }}/day14/"
+  - name: "Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data"
+    url: "{{ site.baseurl }}/day15/"
