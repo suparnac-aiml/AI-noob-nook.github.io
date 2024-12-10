@@ -21,7 +21,7 @@ Data visualization is a crucial step in the data analysis process, enabling us t
 - [Wrap-Up](#Wrap-Up)
 - <a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day15/" style="font-size: 16px;">  Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day15/" style="font-size: 16px;">  Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data </a>
 
 ---
 
@@ -208,4 +208,4 @@ plt.show()
 
 - <a href="{{ site.baseurl }}/day13/" style="font-size: 16px;">  Day 13: Pandas – Data Manipulation and Analysis </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day15/" style="font-size: 16px;">  Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day15/" style="font-size: 16px;">  Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data </a>
