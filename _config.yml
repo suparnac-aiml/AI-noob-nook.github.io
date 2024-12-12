@@ -39,3 +39,5 @@ navigation:
     url: "{{ site.baseurl }}/day14/"
   - name: "Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data"
     url: "{{ site.baseurl }}/day15/"
+  - name: "Day 16: SQL Basics – Querying and Managing Databases"
+    url: "{{ site.baseurl }}/day16/"
