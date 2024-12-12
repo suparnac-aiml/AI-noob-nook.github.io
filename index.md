@@ -21,7 +21,9 @@ title: AI Noob Nook
 - [Day 13: Pandas – Data Manipulation and Analysis](day13/)
 - [Day 14: Data Visualization with Matplotlib and Seaborn](day14/)
 - [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data](day15)
-- [Day 16: SQL Basics – Querying and Managing Databases (Upcoming)](day16)
+- [Day 16: SQL Basics – Querying and Managing Databases](day16)
+- [Day 17: Advanced SQL Queries & Data Manipulation  (Upcoming)](day17)
+
   
 ---
 
@@ -71,6 +73,8 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 13: Pandas – Data Manipulation and Analysis ](day13/)
 - [Day 14: Data Visualization with Matplotlib and Seaborn](#day14/)
 - [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data](#day15)
-- [Day 16: SQL Basics – Querying and Managing Databases (Upcoming)](#day16)
+- [Day 16: SQL Basics – Querying and Managing Databases ](day16)
+- [Day 17: Advanced SQL Queries & Data Manipulation  (Upcoming)](day17)
 
----
+
+
