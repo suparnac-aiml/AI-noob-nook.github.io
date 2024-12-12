@@ -24,7 +24,7 @@ In this guide, we’ll cover the fundamentals of EDA, tools you can use, and key
 - [Practice](#Practice)
 - <a href="{{ site.baseurl }}/day14/" style="font-size: 16px;">  Day 14: Data Visualization with Matplotlib and Seaborn </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases </a>
 
 
 
@@ -233,4 +233,4 @@ EDA is a fundamental process for uncovering the hidden story behind your data. B
 
 - <a href="{{ site.baseurl }}/day14/" style="font-size: 16px;">  Day 14: Data Visualization with Matplotlib and Seaborn </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases </a>
