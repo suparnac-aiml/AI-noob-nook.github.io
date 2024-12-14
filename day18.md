@@ -49,16 +49,18 @@ Normalization involves applying a series of rules called *normal forms (NF)*:
 
 #### **1NF (First Normal Form)**  
 - Ensure that each column contains atomic values.  
-- Example:  
-    | CustomerID | PhoneNumbers    |  
-    |------------|-----------------|  
-    | 1          | 12345, 67890    |
-  
-    Needs to be converted to:  
-    | CustomerID | PhoneNumber     |  
-    |------------|-----------------|  
-    | 1          | 12345           |  
-    | 1          | 67890           |  
+- Example:
+
+**Original Table:**  
+| CustomerID | PhoneNumbers    |  
+|------------|-----------------|  
+| 1          | 12345, 67890    |  
+
+**Normalized Table:**  
+| CustomerID | PhoneNumber     |  
+|------------|-----------------|  
+| 1          | 12345           |  
+| 1          | 67890           |  
 
 #### **2NF (Second Normal Form)**   
 - Data must be in 1NF and all non-key attributes must depend on the primary key.   
