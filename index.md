@@ -22,8 +22,9 @@ title: AI Noob Nook
 - [Day 14: Data Visualization with Matplotlib and Seaborn](day14/)
 - [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data](day15)
 - [Day 16: SQL Basics – Querying and Managing Databases](day16)
-- [Day 17: Advanced SQL Queries & Data Manipulation  (Upcoming)](day17)
-
+- [Day 17: Advanced SQL Queries & Data Manipulation  ](day17)
+- [Day 18: Database Normalization, Transactions, Indexing, and Performance Tuning](day18)
+- [Day 19: SQL for analytics, pivoting, window functions, and automation with stored procedures (Upcoming)](day19)
   
 ---
 
@@ -74,7 +75,9 @@ Through our curated content, we aim to empower our audience with the knowledge, 
 - [Day 14: Data Visualization with Matplotlib and Seaborn](#day14/)
 - [Day 15: Exploratory Data Analysis (EDA) – Extracting Insights from Data](#day15)
 - [Day 16: SQL Basics – Querying and Managing Databases ](day16)
-- [Day 17: Advanced SQL Queries & Data Manipulation  (Upcoming)](day17)
+- [Day 17: Advanced SQL Queries & Data Manipulation  ](day17)
+- [Day 18: Database Normalization, Transactions, Indexing, and Performance Tuning](day18)
+- [Day 19: SQL for analytics, pivoting, window functions, and automation with stored procedures (Upcoming)](day19)
 
 
 
