@@ -23,7 +23,7 @@ SQL offers powerful tools to handle complex data manipulation and querying tasks
 
 - <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day18/" style="font-size: 16px;"> Day 18: Database Management & Optimization (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day18/" style="font-size: 16px;"> Day 18: Database Management & Optimization  </a>
 
 
 ---
@@ -214,4 +214,4 @@ Mastering these advanced SQL techniques empowers you to handle complex data oper
 
 - <a href="{{ site.baseurl }}/day16/" style="font-size: 16px;">  Day 16: SQL Basics – Querying and Managing Databases </a>
 - <a href="{{ site.baseurl }}/">Back to Home</a>
-- <a href="{{ site.baseurl }}/day18/" style="font-size: 16px;"> Day 18: Database Management & Optimization (Upcoming) </a>
+- <a href="{{ site.baseurl }}/day18/" style="font-size: 16px;"> Day 18: Database Management & Optimization </a>
