@@ -52,11 +52,13 @@ Normalization involves applying a series of rules called *normal forms (NF)*:
 - Example:
 
 **Original Table:**  
+
 | CustomerID | PhoneNumbers    |  
 |------------|-----------------|  
 | 1          | 12345, 67890    |  
 
 **Normalized Table:**  
+
 | CustomerID | PhoneNumber     |  
 |------------|-----------------|  
 | 1          | 12345           |  
