@@ -13,20 +13,20 @@ Efficient database design and management are crucial for handling large datasets
 
 ## Table of Contents  
 1. [Database Normalization](#database-normalization)  
-   - [Goals of Normalization]
-   - [Normal Forms]
+   - Goals of Normalization
+   - Normal Forms
 2. [Transactions and ACID Properties](#transactions-and-acid-properties)  
-   - [Understanding Transactions] 
-   - [ACID Properties]
-   - [Examples of Transactions]
+   - Understanding Transactions
+   - ACID Properties
+   - Examples of Transactions
 3. [Indexing in Databases](#indexing-in-databases)  
-   - [Types of Indexes]
-   - [When to Use Indexes]
-   - [Analyzing Query Performance]
+   - Types of Indexes
+   - When to Use Indexes
+   - Analyzing Query Performance
 4. [Performance Tuning](#performance-tuning)  
-   - [Optimizing Queries]  
-   - [Database Partitioning]  
-   - [Best Practices]
+   - Optimizing Queries
+   - Database Partitioning
+   - Best Practices
 5. [Practice Tasks](#practice-tasks)  
 
 
